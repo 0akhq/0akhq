@@ -31,16 +31,6 @@
   <img src="https://skillicons.dev/icons?i=cs,cpp,python,java,js,ts,html,css,react,nextjs,nodejs,dotnet,sqlite,git,github,linux,windows,vscode&perline=9" alt="C#, C++, Python, Java, JavaScript, TypeScript, HTML, CSS, React, Next.js, Node.js, .NET, SQLite, Git, GitHub, Linux, Windows ve VS Code"/>
 </p>
 
-## Öne çıkan projeler
-
-| Proje | Açıklama |
-|:--|:--|
-| DownloadHub | Yazılım ve dijital araç platformu |
-| 0akh Blog | Teknoloji ve yazılım üzerine kişisel platform |
-| StartupPilot | Masaüstü uygulaması |
-| Hastane Yönetim Paneli | C# ve SQLite tabanlı yönetim sistemi |
-| Currency Converter | Döviz ve değerli metal dönüştürücü |
-
 <p>
   <a href="https://github.com/0akh?tab=repositories">Tüm projelerimi incele →</a>
 </p>
