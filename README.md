@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/hero.svg" width="100%" alt="Fatih - Türk bayrağı temalı profil banner"/>
+  <img src="hero.svg" width="100%" alt="Fatih - Türk bayrağı temalı profil banner"/>
 </p>
 
 <p align="center">
