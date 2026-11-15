@@ -1,4 +1,17 @@
- <p align="center">
+<div style="
+  background-image: url('https://yunti.files.wordpress.com/2013/04/turkiye-wallpaper-zeklimekan.jpg');
+  background-size: cover;
+  background-position: center;
+  height: 300px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+">
+  <h1>Fatih</h1>
+</div>
+
+<p align="center">
   <img src="assets/hero.gif" width="100%" alt="Fatih - Türk bayrağı temalı profil banner"/>
 </p>
 
