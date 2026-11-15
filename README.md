@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="hero.svg" width="100%" alt="Fatih — yazılım geliştirici, siber güvenlik ve sistemler"/>
+  <img src="hero.vg" width="100%" alt="Fatih — yazılım geliştirici, siber güvenlik ve sistemler"/>
 </p>
 
 <p align="center">
