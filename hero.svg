@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="1200" height="350"
+     viewBox="0 0 1200 350">
+
+  <image
+    href="turk-bayragi.jpg"
+    width="1200"
+    height="350"
+    preserveAspectRatio="xMidYMid slice"/>
+
+  <rect width="1200" height="350"
+        fill="#000000" opacity="0.4"/>
+
+  <text x="600" y="165"
+        text-anchor="middle"
+        fill="white"
+        font-size="85"
+        font-weight="bold"
+        font-family="Arial">
+    FATİH
+  </text>
+
+  <text x="600" y="220"
+        text-anchor="middle"
+        fill="white"
+        font-size="22"
+        letter-spacing="5"
+        font-family="Arial">
+    SOFTWARE DEVELOPER
+  </text>
+</svg>
